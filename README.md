@@ -31,5 +31,5 @@
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dsouzajenslee)
 
 
-![Gnitch github stats](https://github-readme-stats.vercel.app/api?username=Gnitch&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnitch&theme=tokyonight&langs_count=10&layout=compact)
+![LOCKhart github stats](https://github-readme-stats.vercel.app/api?username=LOCKhart07&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOCKhart07&theme=tokyonight&langs_count=10&layout=compact)
