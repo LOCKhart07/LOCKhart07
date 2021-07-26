@@ -1,6 +1,6 @@
 <h1 align="center">Hieee!!!</h1>
 
-- 👋 Hiya,I'm Jenslee Dsouza pursuing bachelor's in IT engineering.
+- 👋 Hiya, I'm Jenslee Dsouza pursuing bachelor's in IT engineering.
 - ⚡ I build mini discord bots for Fun.
 - 🖥️ Interested in Back End Development.
 - 🖥️ Currently learning Machine Learning.
