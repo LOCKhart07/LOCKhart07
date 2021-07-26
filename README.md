@@ -1,7 +1,4 @@
-<h1 align="center">Hieee !!!</h1>
-<p align="center">
-  <img width="460" height="300" src="assets/23bc1034d18e16554c6a64a4c80a6575.gif">
-</p>
+<h1 align="center">Hieee!!!</h1>
 
 - 👋 Hiya,I'm Jenslee Dsouza pursuing bachelor's in IT engineering.
 - ⚡ I build mini discord bots for Fun.
