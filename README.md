@@ -1,3 +1,7 @@
+# Hi there! 👋
+
+Welcome to my GitHub profile! Here's a quick overview of my contributions and most-used languages:
+
 <table>
   <tr>
     <td>
@@ -8,3 +12,7 @@
     </td>
   </tr>
 </table>
+
+🌐 Check out my portfolio: [portfolio.lockhart.in](https://portfolio.lockhart.in)
+
+🚀 Feel free to explore my repositories and connect with me!
