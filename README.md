@@ -1,6 +1,10 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! Here's a quick overview of my contributions and most-used languages:
+Welcome to my GitHub profile! 
+
+🌐 Check out my portfolio: [portfolio.lockhart.in](https://portfolio.lockhart.in)
+
+Here's a quick overview of my contributions and most-used languages:
 
 <table>
   <tr>
@@ -12,7 +16,5 @@ Welcome to my GitHub profile! Here's a quick overview of my contributions and mo
     </td>
   </tr>
 </table>
-
-🌐 Check out my portfolio: [portfolio.lockhart.in](https://portfolio.lockhart.in)
 
 🚀 Feel free to explore my repositories and connect with me!
