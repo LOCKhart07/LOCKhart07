@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=LOCKhart07&count_private=true&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img src="https://github-readme-stats-ddf3xtj8p-lockhart07s-projects.vercel.app/api?username=LOCKhart07&count_private=true&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
 
 ---
 🚀 Feel free to explore my repositories and connect with me!
